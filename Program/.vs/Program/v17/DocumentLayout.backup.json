@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348BC90-227B-4F8C-BE7C-75C2BAD4A125}|..\\Class 2th Class\\Class 2th Class.vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 2th Class\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7990F296-8B31-4007-ADFD-159D3832A519}|..\\Class 1th (Stream)\\Class 1th (Stream).vcxproj|C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 1th (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 2th Class\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 2th Class\\Source.cpp",
+              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 2th Class\\Source.cpp",
+              "RelativeToolTip": "..\\Class 2th Class\\Source.cpp",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T12:38:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 1th (Stream)\\Source.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:08:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program.cpp",
+              "ToolTip": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T00:37:30.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
