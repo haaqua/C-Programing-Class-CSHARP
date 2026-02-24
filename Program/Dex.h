@@ -4,6 +4,7 @@ class Dex :
     public Stat
 {
 public:
-    void Enhance();
+    virtual void Enhance();
+    ~Dex();
 };
 

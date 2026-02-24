@@ -5,3 +5,8 @@ void Strength::Enhance()
 {
 	cout << "Èû ¼ºÀå" << endl;
 }
+
+Strength::~Strength()
+{
+	cout << "Destroyed Str" << endl;
+}

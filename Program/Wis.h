@@ -4,6 +4,7 @@ class Wis :
     public Stat
 {
 public:
-    void Enhance();
+    virtual void Enhance();
+    ~Wis();
 };
 

@@ -30,13 +30,13 @@ int main()
 #pragma region 오버라이딩
 	// 상위 클래스의 함수를 하위 클래스에서 재정의하여 사용하는 방법
 
-	Strength str;
-	Dex dex;
-	Wis wis;
+	//Strength str;
+	//Dex dex;
+	//Wis wis;
 
-	str.Enhance();
-	dex.Enhance();
-	wis.Enhance();
+	//str.Enhance();
+	//dex.Enhance();
+	//wis.Enhance();
 
 #pragma endregion
 
@@ -44,12 +44,39 @@ int main()
 #pragma region 가상 함수
 	// 실행 시간에 상위 클래스에 대한 참조로
 	// 하위 클래스에 재정의된 함수를 호출하는 함수
+	// 가상 함수 포인터 크기 :  8바이트
 
+	Stat* pointer = nullptr;
 
+	int choice;
+
+	while (true)
+	{
+		cout << "1 : str, 2 : dex, 3 : wis" << endl;
+		cout << "Choice : ";
+		cin >> choice;
+		switch (choice) {
+		case 1:pointer = new Strength;
+			break;
+		case 2:pointer = new Dex;
+			break;
+		case 3:pointer = new Wis;
+			break;
+		default: cout << "Exception" << endl;
+			continue;
+		}
+		// 가상 함수는 한 개 이상의 가상 함수를 포함하는 클래스가 있을 때
+		// 객체 주소에 가상 함수 테이블을 추가합니다
+
+		pointer->Enhance();
+		delete pointer;
+		break;
+	}
+
+	// 가상함수의 경우 가상 함수 테이블을 사용하여 호출되는 함수를 실행 시간에 결정,
+	// 정적으로 선언된 함수는 가상 함수로 선언할 수 없습니다.
 
 #pragma endregion
-
-
 
 	// 다형성은 컴파일 시점에 함수와 속성이 결정되는 
 	// 정적 바인딩을 하지 않고 

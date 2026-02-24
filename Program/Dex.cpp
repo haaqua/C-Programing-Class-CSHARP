@@ -4,3 +4,8 @@
 void Dex::Enhance() {
 	cout << "¹ÎÃ¸ »ó½Â" << endl;
 }
+
+Dex::~Dex()
+{
+	cout << "Destroyed Dex" << endl;
+}
