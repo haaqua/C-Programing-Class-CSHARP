@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include"../Program/stdafx.h"
-#include"../Program/Message"
+#include"../Program/Message.h"
 #include"../Program/Strength.h"
 #include"../Program/Dex.h"
 #include"../Program/Wis.h"

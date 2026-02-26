@@ -7,4 +7,5 @@ protected:
 	int ResistionExplosion;
 public:
 	virtual void Describe() = 0;
+	virtual ~Block();
 };

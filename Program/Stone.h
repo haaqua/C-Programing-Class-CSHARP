@@ -3,5 +3,7 @@
 class Stone : public Block
 {
 public:
+	Stone();
     void Describe();
+	~Stone();
 };
