@@ -1,0 +1,10 @@
+﻿  Source.cpp
+  Vector2.cpp
+  코드를 생성하고 있습니다...
+C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Class 7th (Encapsulation)\Vector2.cpp(20,1): warning C4172: 지역 변수 또는 임시 : vector2의 주소를 반환하는 중
+C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Class 7th (Encapsulation)\Vector2.cpp(14,1): warning C4172: 지역 변수 또는 임시 : vector2의 주소를 반환하는 중
+C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Class 7th (Encapsulation)\Vector2.cpp(54,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Class 7th (Encapsulation)\Vector2.cpp(26,1): warning C4172: 지역 변수 또는 임시 : vector2의 주소를 반환하는 중
+C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Class 7th (Encapsulation)\Vector2.cpp(32,1): warning C4172: 지역 변수 또는 임시 : vector2의 주소를 반환하는 중
+C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Class 7th (Encapsulation)\Vector2.cpp(63,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+  Class 7th (Encapsulation).vcxproj -> C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Program\x64\Debug\Class 7th (Encapsulation).exe
