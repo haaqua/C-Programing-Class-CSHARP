@@ -1,2 +1,178 @@
-﻿  Program.cpp
-  Program.vcxproj -> C:\Users\milkh\OneDrive\바탕 화면\C-Programing-Class-CSHARP\Program\x64\Debug\Program.exe
+﻿  Container.cpp
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244: '+=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:         with
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:         [
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:             T=float
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:         ]
+      C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(38,32):
+          컴파일되는 클래스 템플릿 인스턴스화 'Container<float>'에 대한 참조를 확인하세요.
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(15,1):
+          클래스 템플릿 멤버 함수 'const int &Container<float>::Sum(void)'을(를) 컴파일하는 중입니다.
+  
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244: '+=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:         with
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:         [
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:             T=double
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18): warning C4244:         ]
+      C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,18):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(39,33):
+          컴파일되는 클래스 템플릿 인스턴스화 'Container<double>'에 대한 참조를 확인하세요.
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(15,1):
+          클래스 템플릿 멤버 함수 'const int &Container<double>::Sum(void)'을(를) 컴파일하는 중입니다.
+  
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2297: '+=': 오른쪽 피연산자의 유형이 'T'이므로 유효하지 않습니다.
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2297:         with
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2297:         [
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2297:             T=const char *
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2297:         ]
+      C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(40,39):
+          컴파일되는 클래스 템플릿 인스턴스화 'Container<const char *>'에 대한 참조를 확인하세요.
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(15,1):
+          클래스 템플릿 멤버 함수 'const int &Container<const char *>::Sum(void)'을(를) 컴파일하는 중입니다.
+  
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2040: '+=': 'int'의 간접 참조 수준이 'T'과(와) 다릅니다.
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2040:         with
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2040:         [
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2040:             T=const char *
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Container.cpp(19,9): error C2040:         ]
+  Program.cpp
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,14): error C2676: 이항 '==': 'T'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,14): error C2676:         with
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,14): error C2676:         [
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,14): error C2676:             T=Container<int>
+C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,14): error C2676:         ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3682,17):
+      'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept'일 수 있습니다.
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(std::nullptr_t,const std::unique_ptr<_Ty,_Dx> &) noexcept': 'T'에서 'const std::unique_ptr<_Ty,_Dx> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3676,30):
+      또는       'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,std::nullptr_t) noexcept': 'T'에서 'const std::unique_ptr<_Ty,_Dx> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(3630,30):
+      또는       'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::unique_ptr<_Ty,_Dx> &,const std::unique_ptr<_Ty2,_Dx2> &)': 'T'에서 'const std::unique_ptr<_Ty,_Dx> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1920,17):
+      또는       'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(std::nullptr_t,const std::shared_ptr<_Ty> &) noexcept': 'T'에서 'const std::shared_ptr<_Ty> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1909,17):
+      또는       'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,std::nullptr_t) noexcept': 'T'에서 'const std::shared_ptr<_Ty> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1872,17):
+      또는       'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::shared_ptr<_Ty> &,const std::shared_ptr<_Ty0> &) noexcept': 'T'에서 'const std::shared_ptr<_Ty> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(3246,17):
+      또는       'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const _Elem *const ,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': 'T'에서 'const _Elem *const '에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(3227,30):
+      또는       'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem *const ) noexcept': 'T'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(3221,30):
+      또는       'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::basic_string<_Elem,_Traits,_Alloc> &,const std::basic_string<_Elem,_Traits,_Alloc> &) noexcept': 'T'에서 'const std::basic_string<_Elem,_Traits,_Alloc> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory(1046,30):
+      또는       'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::allocator<_Ty> &,const std::allocator<_Other> &) noexcept': 'T'에서 'const std::allocator<_Ty> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\iterator(486,17):
+      또는       'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::istreambuf_iterator<_Elem,_Traits> &,const std::istreambuf_iterator<_Elem,_Traits> &)': 'T'에서 'const std::istreambuf_iterator<_Elem,_Traits> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\iterator(304,17):
+      또는       'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &,const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &) noexcept': 'T'에서 'const std::istream_iterator<_Ty,_Elem,_Traits,_Diff> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xutility(4474,30):
+      또는       'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)': 'T'에서 'const std::move_iterator<_Iter> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xutility(1926,30):
+      또는       'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)': 'T'에서 'const std::reverse_iterator<_BidIt> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(503,27):
+      또는       'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)'
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,9):
+          'bool std::operator ==(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)': 'T'에서 'const std::pair<_Ty1,_Ty2> &'에 대한 템플릿 인수를 추론할 수 없습니다.
+          with
+          [
+              T=Container<int>
+          ]
+      C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(7,14):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Dev\게임 수업 파일\C-Programing-Class-CSHARP\Program\Program.cpp(47,10):
+          컴파일되는 함수 템플릿 인스턴스화 'bool Same<Container<int>>(T,T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=Container<int>
+          ]
+  
+  코드를 생성하고 있습니다...
