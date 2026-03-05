@@ -1,33 +1,41 @@
 ﻿#include"stdafx.h"
-#include"Container.h"
-
-template<typename T>
-bool Same(T left, T right)
-{
-	return left == right;
-}
+#include"material.h"
+#include"Resource.h"
 
 int main()
 {
-#pragma region 템플릿
-	// 데이터 형식에 의존하지 않고,
-	// 하나의 값이 여러 다른 데이터 형식을 가질 수 있는 기술에 중점을 두어
-	// 재사용성을 높일 수 있는 기능.
-	//cout << Same(10, 10) << endl;
-	//cout << Same("Language", "Egaugnal") << endl;
-	//cout << Same(10.05f, 13.175f) << endl;
-	//cout << Same('A','A') << endl;
+#pragma region 스마트 포인터
+	// 포인터를 사용하는 동시에 자동으로 메모리 관리를 해주며,
+	// 경계 확인과 같은 추가 기능을 제공해주는 포인터.
 
-	//Container<int> container(5);
-#pragma endregion
+#pragma region unique pointer
+	// 특정한 객체를 
+	// 하나의 스마트 포인터만 가리킬 수 있도록 되어 있는 포인터.
 
-#pragma region 템플릿 특수화
-	// 특정 자료형에 대해 다르게 처리하고 싶은 경우 
-	// 특정한 자료형만 다른 형식으로 동작시키는 기능.
+	//unique_ptr<material> pointer = make_unique<material>();
+
+	//unique_ptr<material> reference = std::move(pointer);
 
 #pragma endregion
 
+#pragma region shared pointer
+	// 하나의 자원 객체를 여러 포인터 변수가 가리킬 수 있으며,
+	// 모든 포인터 객체가 자원 객체를 필요로 하지 않을 때,
+	// 자원 객체를 해제하도록 설계되어 있는 포인터.
 
+	//shared_ptr<Resource>pointer = make_shared<Resource>();
+
+	//{
+	//	shared_ptr<Resource>button = pointer;
+
+	//	cout << "Reference Count : " << pointer.use_count() << endl;
+	//}
+
+	//cout << "Reference count : " << pointer.use_count();
+#pragma endregion
+
+
+#pragma endregion
 
 	return 0;
 }

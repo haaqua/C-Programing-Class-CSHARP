@@ -7,12 +7,44 @@
       "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E11E6-A042-4C7D-9AF7-D8337F552699}|..\\Class 7th (Encapsulation)\\Class 7th (Encapsulation).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E11E6-A042-4C7D-9AF7-D8337F552699}|..\\Class 7th (Encapsulation)\\Class 7th (Encapsulation).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D322921-30FA-4C28-BACA-AED2EAF0E41E}|..\\Class 6th (Abstract)\\Class 6th (Abstract).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 6th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C328BCE-3165-4FAC-940E-1BFF3CDF5399}|..\\Class 5th Polymorphism\\Class 5th Polymorphism.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 5th Polymorphism\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D044F4C-3387-4FF2-B155-943B024F2BB9}|..\\Class 4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 4th (Inheritance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E348BC90-227B-4F8C-BE7C-75C2BAD4A125}|..\\Class 2th Class\\Class 2th Class.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 2th Class\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7990F296-8B31-4007-ADFD-159D3832A519}|..\\Class 1th (Stream)\\Class 1th (Stream).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D8E10D-9259-4764-A951-2AA8CEBB2794}|..\\Class 8th (Template)\\Class 8th (Template).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 8th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CBB01E5-C312-4795-964F-203632BC39BF}|..\\Class 3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -47,7 +79,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-11T00:37:30.947Z",
               "IsPinned": true,
@@ -59,7 +91,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Resource.cpp",
+              "RelativeDocumentMoniker": "Resource.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Resource.cpp",
+              "RelativeToolTip": "Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T12:19:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-05T12:19:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "material.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\material.cpp",
+              "RelativeDocumentMoniker": "material.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\material.cpp",
+              "RelativeToolTip": "material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:38:27.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "material.h",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\material.h",
+              "RelativeDocumentMoniker": "material.h",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\material.h",
+              "RelativeToolTip": "material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-05T11:37:39.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 7th (Encapsulation)\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 7th (Encapsulation)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:20:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vector2.h",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Vector2.h",
+              "RelativeDocumentMoniker": "..\\Class 7th (Encapsulation)\\Vector2.h",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Vector2.h",
+              "RelativeToolTip": "..\\Class 7th (Encapsulation)\\Vector2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-05T11:20:36.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 6th (Abstract)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 6th (Abstract)\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 6th (Abstract)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 6th (Abstract)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:19:58.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 5th Polymorphism\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 5th Polymorphism\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 5th Polymorphism\\Source.cpp",
+              "RelativeToolTip": "..\\Class 5th Polymorphism\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:19:23.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 4th (Inheritance)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 4th (Inheritance)\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 4th (Inheritance)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 4th (Inheritance)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:18:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 2th Class\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 2th Class\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 2th Class\\Source.cpp",
+              "RelativeToolTip": "..\\Class 2th Class\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:18:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 1th (Stream)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 1th (Stream)\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 1th (Stream)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 1th (Stream)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:17:57.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 8th (Template)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class 8th (Template)\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 8th (Template)\\Source.cpp",
+              "RelativeToolTip": "..\\Class 8th (Template)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T11:14:16.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -67,38 +255,11 @@
               "RelativeToolTip": "..\\Class 3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T11:07:52.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T11:07:52.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Container.cpp",
-              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Container.cpp",
-              "RelativeDocumentMoniker": "Container.cpp",
-              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Container.cpp",
-              "RelativeToolTip": "Container.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-04T11:00:04.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Container.h",
-              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Container.h",
-              "RelativeDocumentMoniker": "Container.h",
-              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Container.h",
-              "RelativeToolTip": "Container.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T12:32:30.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Vector2.cpp",
               "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Vector2.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Vector2.cpp",
@@ -110,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 7th (Encapsulation)\\Source.cpp",
@@ -122,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 5th Polymorphism\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 5th Polymorphism\\Source.cpp",
@@ -134,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 6th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\milkh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Programing-Class-CSHARP\\Class 6th (Abstract)\\Source.cpp",

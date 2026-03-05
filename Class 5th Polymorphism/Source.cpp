@@ -1,9 +1,9 @@
 ﻿#include <iostream>
 #include"../Program/stdafx.h"
-#include"../Program/Message.h"
-#include"../Program/Strength.h"
-#include"../Program/Dex.h"
-#include"../Program/Wis.h"
+#include"Message.h"
+#include"Strength.h"
+#include"Dex.h"
+#include"Wis.h"
 
 using namespace std;
 

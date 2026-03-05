@@ -1,5 +1,5 @@
-﻿#include"../Program/Stone.h"
-#include"../Program/Concrete.h"
+﻿#include"Stone.h"
+#include"Concrete.h"
 
 int main()
 {

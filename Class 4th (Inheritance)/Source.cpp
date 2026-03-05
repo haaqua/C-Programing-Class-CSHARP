@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include"../Program/Potion.h"
+#include"Potion.h"
 using namespace std;
 int main()
 {
