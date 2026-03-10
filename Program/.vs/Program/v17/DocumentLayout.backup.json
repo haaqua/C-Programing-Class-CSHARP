@@ -5,6 +5,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF25A068-BD8C-48D5-A4B8-37D7DDE1AC0D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8305AB77-7F5D-4B34-93A1-4CB827D5FFA0}|..\\Class11th (Container Adapter)\\Class11th (Container Adapter).vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class11th (Container Adapter)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C328BCE-3165-4FAC-940E-1BFF3CDF5399}|..\\Class 5th Polymorphism\\Class 5th Polymorphism.vcxproj|C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C328BCE-3165-4FAC-940E-1BFF3CDF5399}|..\\Class 5th Polymorphism\\Class 5th Polymorphism.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,15 +31,41 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-11T00:37:30.947Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class11th (Container Adapter)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Container Adapter)\\Source.cpp",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Class11th (Container Adapter)\\Source.cpp",
+              "RelativeToolTip": "..\\Class11th (Container Adapter)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T12:29:19.468Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "stdafx.h",
+              "ToolTip": "C:\\Dev\\\uAC8C\uC784 \uC218\uC5C5 \uD30C\uC77C\\C-Programing-Class-CSHARP\\Program\\stdafx.h",
+              "RelativeToolTip": "stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-10T11:08:59.537Z",
+              "EditorCaption": ""
             }
           ]
         }
